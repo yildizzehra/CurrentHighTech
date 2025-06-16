@@ -1,0 +1,10 @@
+{
+  "urlRandomness": "S6dW_D8",
+  "dev": true,
+  "minify": false,
+  "https": false,
+  "hostType": "lan",
+  "lanType": "ip",
+  "scheme": "com.anonymous.my-app",
+  "devClient": false
+}
